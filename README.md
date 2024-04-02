@@ -1,7 +1,9 @@
 # 💫 About Me:
-Développeur Web Full Stack Et Accessibilité<br>Numérique<br>
+Développeur Web Full Stack Et Accessibilité Numérique<br>
 
-Après une expérience de 14 ans en tant qu’employé chez Auchan dans plusieurs<br>postes, j’ai décidé d’entreprendre une reconversion professionnelle pour devenir<br>développeur web avec spécialisation en accessibilité. Curieux de nature, je suis<br>animé par l'idée d'apprendre en continu et de développer mes compétences.<br>Je suis à la recherche d'un stage pour la période du 19 juin 2024 au 16 août 2024.
+Après une expérience de 14 ans en tant qu’employé chez Auchan dans plusieurs<br>postes, j’ai décidé d’entreprendre une reconversion professionnelle pour devenir<br>développeur web avec spécialisation en accessibilité. Curieux de nature, je suis<br>animé par l'idée d'apprendre en continu et de développer mes compétences.<br>
+
+Je suis à la recherche d'un stage pour la période du 19 juin 2024 au 16 août 2024.
 
 
 ## 🌐 Socials:
