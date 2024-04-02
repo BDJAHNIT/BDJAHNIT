@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+<h1>Hi 👋, I'm Badreddine</h1>
+
 Développeur Web Full Stack Et Accessibilité Numérique<br>
 
 Après une expérience de 14 ans en tant qu’employé chez Auchan dans plusieurs<br>postes, j’ai décidé d’entreprendre une reconversion professionnelle pour devenir<br>développeur web avec spécialisation en accessibilité. Curieux de nature, je suis<br>animé par l'idée d'apprendre en continu et de développer mes compétences.<br>
