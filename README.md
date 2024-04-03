@@ -1,4 +1,4 @@
-# Salut 👋, je m'appelle Badreddine
+Salut 👋, je m'appelle Badreddine
 <br>
 
 # 💫 About Me:
