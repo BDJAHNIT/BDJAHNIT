@@ -1,7 +1,7 @@
 # Salut 👋, je m'appelle Badreddine
 <br>
 
-# 💫 About Me:
+# 💫 À propos de moi :
 
 Développeur Web Full Stack Et Accessibilité Numérique<br>
 
