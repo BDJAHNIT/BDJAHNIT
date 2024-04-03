@@ -25,6 +25,3 @@ Je suis à la recherche d'un stage pour la période du 19 juin 2024 au 16 août 
 ---
 [![](https://visitcount.itsvg.in/api?id=BDJAHNIT&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
