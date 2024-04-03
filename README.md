@@ -1,4 +1,4 @@
-# <h1>Salut 👋, je m'appelle Badreddine</h1>
+# Salut 👋, je m'appelle Badreddine
 <br>
 
 # 💫 About Me:
