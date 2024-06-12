@@ -15,7 +15,7 @@ Développeur Web Full Stack Et Accessibilité Numérique<br><br>Après une expé
 ## 🏆 Trophées GitHub :
 ![](https://github-profile-trophy.vercel.app/?username=BDJAHNIT&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Citation aléatoire des développeurs :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 😂 Random Dev Meme
