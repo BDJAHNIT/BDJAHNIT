@@ -18,7 +18,7 @@ Développeur Web Full Stack Et Accessibilité Numérique<br><br>Après une expé
 ### ✍️ Citation aléatoire des développeurs :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Mèmo de développement aléatoire :
+### 😂 blague de développement aléatoire :
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
