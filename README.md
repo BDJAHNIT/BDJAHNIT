@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Apropos de moi :
 Développeur Web Full Stack Et Accessibilité Numérique<br><br>Après une expérience de 14 ans en tant qu’employé chez Auchan dans plusieurs postes, j’ai décidé d’entreprendre une reconversion professionnelle pour devenir développeur web avec spécialisation en accessibilité. Curieux de nature, je suis animé par l'idée d'apprendre en continu et de développer mes compétences.
 
 
