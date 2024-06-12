@@ -2,7 +2,7 @@
 Développeur Web Full Stack Et Accessibilité Numérique<br><br>Après une expérience de 14 ans en tant qu’employé chez Auchan dans plusieurs postes, j’ai décidé d’entreprendre une reconversion professionnelle pour devenir développeur web avec spécialisation en accessibilité. Curieux de nature, je suis animé par l'idée d'apprendre en continu et de développer mes compétences.
 
 
-## 🌐 Socials:
+## 🌐 Réseaux sociaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badreddine-djahnit-956907292/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22550450/bad) 
 
 # 💻 Tech Stack:
